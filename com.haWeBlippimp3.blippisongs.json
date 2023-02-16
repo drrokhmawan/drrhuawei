@@ -39,7 +39,7 @@
 "MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : false,
 
-"STARTAPPID" : "206056767",
+"STARTAPPID" : "205280091",
 
 "ADMOB_BANNER" : "fqefqefqefqef",
 "ADMOB_INTER" : "grwgwrgwrgrwg",
@@ -58,7 +58,7 @@
 
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "5084431",
+"UNITY_GAME_ID" : "4780603",
 
 "APPLOVIN_BANNER_MAX_ID" : "applovinmaxbanner",
 "APPLOVIN_INTERSTITIAL_MAX_ID" : "maxinterstitial",
